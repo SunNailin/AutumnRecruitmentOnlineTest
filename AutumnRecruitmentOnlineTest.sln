@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alibaba_WordBreak", "HelloWorld\HelloWorld.vcxproj", "{E82424AE-E7DC-430D-8862-4A8D3E48CBA3}"
 EndProject
@@ -28,6 +28,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Didi_UglyNumber", "Didi_UglyNumber\Didi_UglyNumber.vcxproj", "{31CFEDBA-46C5-4786-8908-E77B632B30B7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Didi_Xor", "Didi_Xor\Didi_Xor.vcxproj", "{110EF9B9-18FE-4A60-8269-919268B6FB57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huawei_ZimuTihuan", "Huawei_ZimuTihuan\Huawei_ZimuTihuan.vcxproj", "{0C12704D-5A2A-4125-8B35-5652EAD88C3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huawei_ISBN", "Huawei_ISBN\Huawei_ISBN.vcxproj", "{D3D6BB8C-F036-4075-9960-3BD793B2A00A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huawei_YumingPaixu", "Huawei_YumingPaixu\Huawei_YumingPaixu.vcxproj", "{E378A02A-2CC9-4E41-879A-78B3C81BA258}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{110EF9B9-18FE-4A60-8269-919268B6FB57}.Debug|Win32.Build.0 = Debug|Win32
 		{110EF9B9-18FE-4A60-8269-919268B6FB57}.Release|Win32.ActiveCfg = Release|Win32
 		{110EF9B9-18FE-4A60-8269-919268B6FB57}.Release|Win32.Build.0 = Release|Win32
+		{0C12704D-5A2A-4125-8B35-5652EAD88C3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C12704D-5A2A-4125-8B35-5652EAD88C3C}.Debug|Win32.Build.0 = Debug|Win32
+		{0C12704D-5A2A-4125-8B35-5652EAD88C3C}.Release|Win32.ActiveCfg = Release|Win32
+		{0C12704D-5A2A-4125-8B35-5652EAD88C3C}.Release|Win32.Build.0 = Release|Win32
+		{D3D6BB8C-F036-4075-9960-3BD793B2A00A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3D6BB8C-F036-4075-9960-3BD793B2A00A}.Debug|Win32.Build.0 = Debug|Win32
+		{D3D6BB8C-F036-4075-9960-3BD793B2A00A}.Release|Win32.ActiveCfg = Release|Win32
+		{D3D6BB8C-F036-4075-9960-3BD793B2A00A}.Release|Win32.Build.0 = Release|Win32
+		{E378A02A-2CC9-4E41-879A-78B3C81BA258}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E378A02A-2CC9-4E41-879A-78B3C81BA258}.Debug|Win32.Build.0 = Debug|Win32
+		{E378A02A-2CC9-4E41-879A-78B3C81BA258}.Release|Win32.ActiveCfg = Release|Win32
+		{E378A02A-2CC9-4E41-879A-78B3C81BA258}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
